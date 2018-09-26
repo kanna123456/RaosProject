@@ -1,2 +1,2 @@
 # RaosProject
-project on website design for a facilities services.
+project on website design for a facilities services company.
